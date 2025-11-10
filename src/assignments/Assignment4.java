@@ -40,13 +40,15 @@ public class Assignment4 {
 	
 	
 	
+	
 	/*
-	 * for(int i=0;i<10;i++) { 
-	 * System.out.println(tourist_attractions +"Total attraction:"+ tourist_attractions.size() );
-	 * System.out.println(tourist_attractions.get().size();
+	 * for(int i=0;i<10;i++) { System.out.println(tourist_attractions
+	 * +"Total attraction:"+ tourist_attractions.size() );
+	 * System.out.println(tourist_attractions.get(i).size();
 	 * 
 	 * }
 	 */
+	 
 	
 	//Create an array of 10 numbers (any 10 numbers) and print out the Average of 5th and 6th Value.
 	List<Double> numbers = new LinkedList<Double>();
